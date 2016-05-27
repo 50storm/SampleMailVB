@@ -1,0 +1,11 @@
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleMailVB\SampleMailVB\bin\Debug\SampleMailVB.exe.config
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleMailVB\SampleMailVB\bin\Debug\SampleMailVB.exe
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleMailVB\SampleMailVB\bin\Debug\SampleMailVB.pdb
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleMailVB\SampleMailVB\bin\Debug\SampleMailVB.xml
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleMailVB\SampleMailVB\obj\Debug\SampleMailVB.vbprojResolveAssemblyReference.cache
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleMailVB\SampleMailVB\obj\Debug\SampleMailVB.Form1.resources
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleMailVB\SampleMailVB\obj\Debug\SampleMailVB.Resources.resources
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleMailVB\SampleMailVB\obj\Debug\SampleMailVB.vbproj.GenerateResource.Cache
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleMailVB\SampleMailVB\obj\Debug\SampleMailVB.exe
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleMailVB\SampleMailVB\obj\Debug\SampleMailVB.xml
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleMailVB\SampleMailVB\obj\Debug\SampleMailVB.pdb
